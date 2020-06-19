@@ -1,0 +1,5077 @@
+rue
+
+i
+
+lease
+
+are t
+
+P
+
+ed.
+
+insert
+
+age breaks
+
+ally
+
+P
+
+A Report on the Sponsors of
+
+iles.
+
+ting f
+
+Cancer Treatment Clinical Trials
+
+ypeset
+
+and Their Approval and Monitoring
+
+ay have been accident
+
+m
+
+Mechanisms
+
+he original t t
+
+errors
+
+rom f
+
+not
+
+typographice
+
+Hellen Gelband
+
+som
+
+and
+
+riginal paper book,
+
+Prepared for the National Cancer Policy Board
+
+ned,
+
+he o
+
+ai
+
+t
+
+Institute of Medicine
+
+rom
+
+National Research Council
+
+f
+
+be ret
+
+ed
+
+Washington, D.C.
+
+creat
+
+cannot
+
+February 1999
+
+iles
+
+L fM X however,
+
+rom
+
+ting,
+
+f
+
+at
+
+orm
+
+posed
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+ii
+
+lease
+
+are t
+
+P
+
+ed.
+
+INSTITUTE OF MEDICINE • 2101 Constitution Avenue, N.W. • Washington, DC 20418
+
+NOTICE: This project was approved by the Governing Board of the National Research Council, whose members are drawn from the councils insert
+
+of the National Academy of Sciences, the National Academy of Engineering, and the Institute of Medicine. The author of the report was cho-age breaks
+
+sen for competency and lack of bias.
+
+ally
+
+P
+
+The Institute of Medicine was chartered in 1970 by the National Academy of Sciences to enlist distinguished members of the appropriate professions in the examination of policy matters pertaining to the health of the public. In this, the Institute acts under both the Academy’s iles.
+
+1863 congressional charter responsibility to be an adviser to the federal government and its own initiative in identifying issues of medical care, research, and education. Dr. Kenneth I.Shine is president of the Institute of Medicine.
+
+ting f
+
+This study was supported under Contract Number N02-CO-71024. The views presented in this paper are those of the author and not necessarily those of the funding organization.
+
+ypeset
+
+Additional copies of A Report on the Sponsors of Cancer Treatment Clinical Trials and Their Approval and Monitoring Mechanisms are available in limited quantities from the Institute of Medicine, National Cancer Policy Board, 2101 Constitution Avenue, N.W., Washington, DC 20418. The full text of this publication is available on line at: www.nap.edu.
+
+ay have been accident
+
+Copyright 1999 by the National Academy of Sciences. All rights reserved.
+
+m
+
+he original t t
+
+errors
+
+rom f
+
+not
+
+typographice
+
+som
+
+and
+
+riginal paper book,
+
+ned,
+
+he o
+
+ai
+
+t
+
+rom f be ret
+
+ed
+
+creat
+
+cannot
+
+iles
+
+L fM X however,
+
+rom
+
+ting,
+
+f
+
+at
+
+orm
+
+posed
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+PREFACE
+
+iii
+
+lease
+
+are t
+
+P
+
+ed.
+
+insert
+
+Preface
+
+age breaks
+
+ally
+
+P
+
+iles.
+
+ting f
+
+ypeset
+
+This report for the National Cancer Policy Board (NCPB) describes the procedures currently in place in the ay have been accident
+
+United States for approving and monitoring clinical trials of cancer treatments. Virtually all cancer clinical trials m
+
+he original t
+
+are funded by agencies of the federal government or the pharmaceutical industry, so the focus is on the t
+
+requirements for each of these groups. The paper is intended as a jumping off point for the NCPB to consider errors
+
+rom f
+
+some of the pressing policy issues surrounding clinical trials in cancer, though as yet, no specific follow-on projects have been initiated.
+
+not
+
+This project came about as a result of NCPB deliberations at an April 1998 meeting, during which payment typographic
+
+of patient care costs in cancer treatment trials was identified as a policy issue of great concern, in particular e
+
+under the Medicare Program, which insures the majority of cancer patients. The common policy of insurers, som
+
+including Medicare through the Health Care Financing Administration (HCFA), has been to consider all treatment in clinical trials to be, by definition, experimental, and therefore, not eligible for reimbursement. This and
+
+riginal paper book,
+
+has been the case whether the patient receives standard care (e.g., in a “usual treatment” arm) or a truly ned,
+
+he o
+
+ai
+
+experimental treatment, and despite the fact that most patients would be receiving some form of treatment t
+
+eligible for reimbursement if they were not in the trial. Before exploring the payment issues in more detail, the rom f be ret
+
+NCPB commissioned this review to lay out the range of cancer clinical trial sponsors in the United States, and ed
+
+what the requirements are for review and monitoring of clinical trials initiated by each type of sponsor.
+
+This purely descriptive document does not imply the NCPB’s endorsement of the status quo, or a belief that creat
+
+cannot
+
+only government and industry are capable of appropriately reviewing and carrying out clinical trials. The NCPB
+
+iles
+
+L f
+
+is, in fact, concerned that a review process be open to innovation from outside existing channels without M
+
+sacrificing rigor. This document merely describes the major systems now in place, and can be the basis for X
+
+however,
+
+developing criteria that might be applied to judging the appropriateness of non-government, non-industry funded rom
+
+ting,
+
+f
+
+at
+
+trials from the perspective of the insurer who is asked to pay for the costs of patient care.
+
+orm
+
+The NCPB intends to issue statements in the future on coverage of participation in clinical trials, following posed
+
+ic f
+
+an effort to gather information pertinent to the policy issues. This document contains no recommendations, but future statements will contain recommendations for government and private payers.
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+REPORT REVIEWERS
+
+iv
+
+lease
+
+are t
+
+P
+
+ed.
+
+insert
+
+Report Reviewers
+
+age breaks
+
+ally
+
+P
+
+iles.
+
+ting f
+
+ypeset
+
+This report was reviewed in draft form by individuals chosen for their diverse perspectives and technical ay have been accident
+
+expertise, in accordance with procedures approved by the National Research Council’s Report Review m
+
+he original t
+
+Committee. The purpose of this independent review is to provide candid and critical comments that assist the t
+
+Institute of Medicine in making the final report as sound as possible and to ensure that the report meets errors
+
+rom f
+
+institutional standards for objectivity, evidence, and responsiveness to the study charge. The review comments and draft manuscript remain confidential to protect the integrity of the deliberative process. The author wishes to not
+
+thank the following individuals for their participation in the review of this report: typographic
+
+Paul F.Griner, M.D., Vice President and Director, Center for the Assessment and Management of Change e
+
+in Academic Medicine, Association of American Medical Colleges, Washington, D.C.; som
+
+Ada Sue Hinshaw, Ph.D., R.N., Dean, School of Nursing, University of Michigan; Barbara S.Hulka, M.D., M.P.H., Kenan Professor, Department of Epidemiology, University of North and
+
+riginal paper book,
+
+Carolina at Chapel Hill;
+
+ned,
+
+he o
+
+ai
+
+Brent C.James, M.D., Executive Director, Institute for Health Care Delivery Research, and Vice President, t
+
+Medical Research, Intermountain Health Care, Salt Lake City, Utah; and rom f be ret
+
+Robert I.Levy, M.D., Senior Vice President, Science and Technology, American Home Products ed
+
+Corporation, Madison, N.J.
+
+While the individuals listed above have provided constructive comments and suggestions, it must be creat
+
+cannot
+
+emphasized that responsibility for the final content of this report rests entirely with the author and the Institute of iles
+
+L f
+
+Medicine.
+
+M X however,
+
+rom
+
+ting,
+
+f
+
+at
+
+orm
+
+posed
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+CONTENTS
+
+v
+
+lease
+
+are t
+
+P
+
+ed.
+
+insert
+
+Contents
+
+age breaks
+
+ally
+
+P
+
+iles.
+
+ting f
+
+ypeset
+
+
+
+SUMMARY
+
+
+
+1
+
+ay have been accident
+
+
+
+INTRODUCTION
+
+
+
+4
+
+m
+
+he original t
+
+
+
+ELIGIBILITY OF MEDICARE PATIENTS FOR CANCER CLINICAL TRIALS
+
+
+
+5
+
+t
+
+
+
+CRITERIA AND PROCEDURES FOR APPROVING AND MONITORING CLINICAL
+
+
+
+6
+
+errors
+
+rom f
+
+TRIALS
+
+The Two Prongs of Clinical Trial Protocol Review and Monitoring 6
+
+not
+
+The National Cancer Institute 7
+
+typographic
+
+Department of Veterans Affairs 11
+
+e
+
+INSTITUTIONAL REVIEW BOARDS 13
+
+som
+
+THE FOOD AND DRUG ADMINISTRATION 16
+
+The Commercial IND Application 16
+
+and
+
+riginal paper book,
+
+Noncommercial INDs 17
+
+ned,
+
+he o
+
+ai
+
+Protection of Human Subjects 18
+
+t
+
+COMMON ELEMENTS OF CLINICAL TRIAL REVIEW CRITERIA 18
+
+rom f be ret
+
+Reviews for Scientific Merit 18
+
+ed
+
+Reviews and Procedures to Ensure the Safety and Rights of Participants 19
+
+REFERENCES 19
+
+creat
+
+cannot
+
+iles
+
+L fM X however,
+
+rom
+
+ting,
+
+f
+
+at
+
+orm
+
+posed
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+1
+
+lease
+
+are t
+
+P
+
+ed.
+
+A Report on the Sponsors of Cancer Treatment Clinical Trials and Their Approval and Monitoring Mechanisms
+
+insert
+
+age breaks
+
+ally
+
+P
+
+SUMMARY
+
+iles.
+
+ting f
+
+Cancer Treatment Trial Sponsors
+
+ypeset
+
+Hundreds of high-quality clinical trials for cancer treatment are conducted in the United States, in institutions ranging from high-profile metropolitan cancer centers to the community hospital down the street.
+
+ay have been accident
+
+Medicare beneficiaries with cancer are likely to qualify for many of these trials, by virtue of the type and stage of m
+
+their disease, and other health and personal characteristics. Virtually all trials funded by the National Cancer he original t t
+
+Institute (NCI) are carried out in institutions at which Medicare beneficiaries could be treated. The errors
+
+rom
+
+pharmaceutical industry also supports trials of new anti-cancer agents, often in cooperation with government f
+
+agencies and academic research centers, and many of these trials also would be open to Medicare beneficiaries not
+
+who meet eligibility criteria.
+
+typographic
+
+The Department of Veterans Affairs (VA) runs a substantial clinical trials program. VA’s focus is on e
+
+veterans who qualify for health care directly from VA, but many clinical trials also accept non-veterans (and som
+
+veterans who do not qualify for VA care) so that recruitment goals for various population segments (in a large number of cases, women) can be met. Medicare beneficiaries could enroll in some of these trials.
+
+and
+
+riginal paper book,
+
+The Department of Defense (DoD) also supports clinical trials, but these are open exclusively to individuals ned,ai
+
+who are eligible for health care through DoD. Medicare beneficiaries would not be eligible for these trials. The he o t
+
+recently announced DoD research program for prostate cancer may alter this, however, with clinical trials rom f be ret
+
+outside the DoD medical system.
+
+ed
+
+Government programs and the pharmaceutical industry account for the vast majority of clinical trials for cancer treatment in the United States; trials sponsored by others are rare.
+
+creat
+
+cannot
+
+iles
+
+L f
+
+Quality Standards for Cancer Treatment Trials
+
+M X however,
+
+All the cancer treatment clinical trials for which Medicare beneficiaries would be eligible (as described rom
+
+ting,
+
+f
+
+at
+
+above) take place within well-developed systems that provide for protocol approval and oversight of trial progress. The two distinct facets of review and oversight focus on 1) scientific merit and 2) the protection and orm
+
+posed
+
+rights of study participants.
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+2
+
+lease
+
+are t
+
+P
+
+ed.
+
+NCI has several mechanisms through which cancer clinical trials are funded, each with its own review and approval process. Initial protocol reviews for approval and funding take place either through centralized NCI insert
+
+age breaks
+
+mechanisms (e.g., study sections to review investigator-initiated grant proposals) or through more decentralized ally
+
+P
+
+mechanisms, using the infrastructure of the 58 major cancer centers that exist around the country, or the iles.
+
+networks of research institutions linked in the Cooperative Oncology Groups. VA has its own (mainly centralized) mechanisms for reviewing protocols for funding through its Cooperative Studies Program or other ting f
+
+centralized review for trials proposed by individual investigators.
+
+Both NCI and VA use a two-stage process for deciding on which clinical trials to fund. In the first stage, ypeset
+
+proposals are separated into those that are sound scientifically and meet the requirements for respecting the rights ay have been accident
+
+and ensuring the safety of participants, and those that fall short of those standards. Those in the former group—
+
+m
+
+all of which are of a high enough quality to fund—are ranked and go on to compete for the limited pool of funds.
+
+he original t
+
+Regardless of the availability of money, those in the latter category are not eligible for funding under any t
+
+errors
+
+circumstances.
+
+rom f
+
+Protocols for all trials of new anti-cancer agents, or trials that are using approved agents in novel ways, not
+
+must be the subject of an Investigational New Drug (IND) application (or a similar application for biologies or devices) to the Food and Drug Administration (FDA). FDA reviews IND protocols for scientific merit and the typographice
+
+protection of participants, and will not allow studies to proceed until these criteria are met. NCI and the pharmaceutical industry are the only important sponsors of clinical trials of new anti-cancer agents, so they are som
+
+the main sponsors that file INDs. NCI-sponsored trials under INDs will also have undergone review for NCI and
+
+funding.
+
+riginal paper book,
+
+ned,
+
+All government funding mechanisms and the FDA require periodic reporting on the progress of clinical he o
+
+ai
+
+t
+
+trials. Reporting on the numbers of patients accrued is usually annual. Reports of non-serious adverse effects also takes place according to a periodic schedule. Serious or life-threatening adverse effects, and all deaths possibly rom f be ret
+
+linked to the treatment, must be reported (to the sponsor in the case of non-IND studies and to FDA in the case ed
+
+of those under INDs) expeditiously. All sponsors and FDA have the authority to terminate trials for reasons of creat
+
+cannot
+
+patient safety or for poor performance of various types.
+
+iles
+
+Requirements for protecting the safety and rights of clinical trial participants in studies funded by the L f
+
+Department of Health and Human Services (DHHS) are set down in regulations. The Office for Protection from M X however,
+
+Research Risks at NIH is the focus for implementation of the regulations and the provision of guidance on rom
+
+ting,
+
+ethical issues in biomedical or behavioral research.
+
+f
+
+at
+
+Initial evaluations of clinical trial protocols include explicit review for the safety and rights of participants.
+
+orm
+
+In addition, institutional review boards (IRBs) at all institutions participating in the trials must give initial posed
+
+ic f
+
+approval, and are generally responsible for assuring that the appropriate steps are followed to protect participants during the course of the trial. Informed consent is a major focus of IRBs, but they also have more general responsibilities for the conduct of trials.
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+Common Elements of Clinical Trial Review Criteria
+
+typeset
+
+her
+
+for at
+
+Review and monitoring procedures among clinical trial sponsors vary, but the content of the reviews is remarkably similar. There are some obvious common elements related to the review and conduct of trials that could be a starting point for defining what constitutes a “good” trial: original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+3
+
+lease
+
+are t
+
+P
+
+ed.
+
+• the material reviewed is always a written protocol and other documentation that covers both scientific matters and the safety and potential risks to participants; insert
+
+age breaks
+
+• reviews of scientific merit and of human subject issues are carried out independently (although the ally
+
+P
+
+safety of participants also features in scientific merit reviews, so there is some built-in duplication); iles.
+
+• procedures provide for initial protocol reviews for approval as well as reviews of progress (at least annually) of trials in all the systems;
+
+ting f
+
+• ongoing responsibility for human subjects issues in trials that are under way rests mainly with the IRBs of the institutions at which patients are actually being enrolled and treated in clinical trials; and ypeset
+
+• reviews are carried out by experts in methodological areas and the medical subject matter of the trial ay have been accident
+
+(i.e., reviews may not be carried out satisfactorily using a “checklist” approach applied by non-experts).
+
+m
+
+he original t t
+
+Reviews for Scientific Merit
+
+errors
+
+rom f
+
+There are common elements in the review of protocols for scientific merit. These include: not
+
+• importance or significance of the research question, typographice
+
+• previous research to support moving ahead to clinical trials in human beings (or to move to a later phase of clinical trial),
+
+som
+
+• adequacy of study design (if executed appropriately) to answer research question, and
+
+• adequacy of the size of the trial (number of participants) to produce an answer to the question, riginal paper book,
+
+ned,
+
+• feasibility of carrying out the study,
+
+he o
+
+ai
+
+t
+
+• qualifications of the investigators, and
+
+• assurance that participants will be protected from undue risks.
+
+rom f be ret
+
+ed
+
+Progress reviews also are a feature of all the systems. At least annually, the progress of all trials is reported creat
+
+cannot
+
+to sponsors (and to FDA, in the case of IND trials). The main points considered include: iles
+
+L f
+
+• adherence to protocol,
+
+M X however,
+
+• accrual rate,
+
+rom
+
+ting,
+
+• dropout rate, and
+
+f
+
+at
+
+• adverse events.
+
+orm
+
+posed
+
+ic f
+
+Serious adverse events generally must be reported immediately. In general, clinical trials have “stopping rules” that guide decisions to stop a trial earlier than planned. Sponsors may decide to terminate a trial if it appears unlikely to succeed, either because of poor accrual, high dropout rates, etc., or they may stop it when ion.
+
+been recom
+
+ting-specif
+
+early results effectively answer the study question (either positively or negatively) and it becomes unnecessary tribut
+
+(and may, indeed, be unethical) to continue. Sponsors and FDA (in the case of IND studies) may also decide to has
+
+typeset
+
+terminate or otherwise modify trials because of adverse events.
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+4
+
+lease
+
+are t
+
+P
+
+ed.
+
+Reviews and Procedures to Ensure the Safety and Rights of Participants insert
+
+Before people are exposed to any treatments that involve risk in clinical trials, the Code of Federal age breaks
+
+ally
+
+Regulations (45 CFR 46) requires that other methods—such as computer simulations or animal studies—must P
+
+have been fully exploited first. Once a clinical trial is planned, the scientific review includes consideration of the iles.
+
+potential risks to participants, but these are also considered by separate groups concerned exclusively with the ting f
+
+safety and rights of study participants. The common areas covered by human subjects reviews are evaluations of: ypeset
+
+• the scientific background of the study,
+
+• the subject population,
+
+ay have been accident
+
+• subject recruitment,
+
+m
+
+• risks to subjects,
+
+he original t t
+
+• benefits to subjects and society,
+
+errors
+
+rom
+
+• risk/benefit relationship,
+
+f
+
+• investigator credentials,
+
+not
+
+• monitoring requirements for the trial, and
+
+typographic
+
+• informed consent procedures.
+
+e
+
+som
+
+INTRODUCTION
+
+and
+
+riginal paper book,
+
+Hundreds of clinical trials for cancer treatment are carried out in a wide variety of settings in the United ned,ai
+
+States, from high-profile cancer centers in major metropolitan areas, to the community hospital down the street.
+
+he o t
+
+They range from “phase I” trials with few participants to “phase III” trials, which may have hundreds or, rom f be ret
+
+occasionally, thousands of patients (table 1). Virtually all trials, however, particularly later phase trials, are ed
+
+sponsored by a small number of organizations.
+
+The National Cancer Institute (NCI) historically has been responsible for developing and testing most new creat
+
+cannot
+
+cancer drugs. The pharmaceutical industry has become increasingly active in this area, however, and also iles
+
+sponsors a substantial share of clinical trials, many in collaboration with government. Within the government, L fM
+
+other major sponsors of clinical trials are the Department of Veterans Affairs (VA) and the Department of X
+
+however,
+
+Defense (DoD). The Food and Drug Administration (FDA) plays a key role in all clinical trials involving new rom
+
+ting,
+
+f
+
+at
+
+drugs or significant new uses for already-approved drugs, through the Investigational New Drug (IND) Application process.
+
+orm
+
+posed
+
+The National Cancer Institute (NCI) historically has been responsible for developing and testing most new ic f
+
+cancer drugs. The pharmaceutical industry has become increasingly active in this area, however, and also sponsors a substantial share of clinical trials, many in collaboration with government. Within the government, ion.
+
+other major sponsors of clinical trials are the Department of Veterans Affairs (VA) and the Department of been recom
+
+ting-specif
+
+Defense (DoD). The Food and Drug Administration (FDA) plays a key role in all clinical trials involving new has
+
+tribut
+
+drugs or significant new uses for already-approved drugs, through the Investigational New Drug (IND) typeset
+
+Application process.
+
+her
+
+for at
+
+TABLE 1. The Phases of Cancer Clinical Trials
+
+original work
+
+and ot
+
+Phase I
+
+First studies in people, to evaluate how a new drug should be administered (orally, intravenously, by he
+
+ive version
+
+injection), how often, and what dosage. Usually en
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+5
+
+lease
+
+are t
+
+P
+
+ed.
+
+rolls only a small number of patients.
+
+insert
+
+age breaks
+
+Phase II
+
+Provides preliminary information about how well the new drug works and generates more information about ally
+
+P
+
+safety and benefit. Each Phase II study usually focuses on a particular type of cancer. Usually enrolls fewer than 100 patients.
+
+iles.
+
+Phase III
+
+Compares a promising new drug, combination of drugs, or procedure with the current standard. Phase III ting f
+
+trials typically involve large numbers of people, with clinical researchers entering patients nationwide.
+
+Assignment to a treatment group (new or current standard) in most phase III treatment trials is by ypeset
+
+randomization (i.e., equal probability of getting either treatment). May enroll hundreds or more rarely, thousands of patients.
+
+ay have been accident
+
+m
+
+he original t t
+
+ELIGIBILITY OF MEDICARE PATIENTS FOR CANCER CLINICAL TRIALS
+
+errors
+
+rom f
+
+Medicare patients would be eligible to participate in all or most clinical trials supported by the National
+
+Cancer Institute (NCI) in the United States, if they meet the entry criteria. Entry criteria typically include the not
+
+type and stage of disease, and might include characteristics such as the presence of other medical conditions.
+
+typographic
+
+NCI-sponsored trials are usually organized by research groups at major medical centers, but patients may be e
+
+entered into them in a wide range of settings, including community hospitals that are networked to the major som
+
+cancer centers.
+
+The Department of Veterans Affairs (VA) is involved in a large number of clinical trials, including cancer and
+
+riginal paper book,
+
+treatment trials. The vast majority of participants in these trials are eligible for medical care directly from VA, ned,
+
+he o
+
+ai
+
+owing either to the medical condition being connected to military service or the financial need of the veteran.
+
+t
+
+Medicare would not, in general, cover these patients. However, some non-veterans (possibly 10–15% of trial rom f be ret
+
+participants; Collins 1998) also participate in VA-sponsored clinical trials, particularly when not enough eligible ed
+
+veterans are likely to enroll in a study. A reason for this in many trials is that women are underrepresented in the veteran population, but should be included in most trials (in clinical trials carried out under interagency creat
+
+cannot
+
+agreements between VA and other government agencies, at least 25% of participants must be women, if iles
+
+appropriate to the research question). It is possible, therefore, that Medicare beneficiaries who are not eligible for L fM
+
+VA care may participate in VA-sponsored clinical trials, and that Medicare coverage might apply.
+
+X
+
+however,
+
+The other government agency that sponsors clinical trials is the Department of Defense. Trials at DoD
+
+rom
+
+ting,
+
+f
+
+at
+
+facilities, however, are open only to military personnel and eligible retirees and family members who receive their care directly from DoD, which assumes all financial responsibility. There should be no circumstances under orm
+
+posed
+
+ic f
+
+which Medicare beneficiaries who are not eligible for DoD-funded care would enter a clinical trial at a DoD
+
+medical facility (Brown 1998).
+
+In the private sector, pharmaceutical companies conduct a wide range of cancer clinical trials, many in ion.
+
+collaboration with NCI and with academic and other medical research centers. Medicare beneficiaries should be been recom
+
+ting-specif
+
+eligible to participate in these trials, assuming they meet the eligibility criteria.
+
+has
+
+tribut
+
+No other significant sponsors of cancer clinical trials in the United States were identified.
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+6
+
+lease
+
+are t
+
+P
+
+ed.
+
+CRITERIA AND PROCEDURES FOR APPROVING AND MONITORING CLINICAL TRIALS
+
+insert
+
+The remainder of this report describes the procedures and criteria used to review clinical trial protocols for age breaks
+
+ally
+
+approval and, where applicable, the procedures and criteria used for monitoring their progress. The descriptions P
+
+are limited to those organizations sponsoring clinical trials that Medicare beneficiaries might enter. The final iles.
+
+section of the report draws together the common elements of review and approval procedures and criteria from ting f
+
+the organizations covered. These could serve as a starting point for the Health Care Financing Administration (HCFA) to develop general criteria for assessing clinical trials for patient care coverage of participating ypeset
+
+Medicare beneficiaries.
+
+This report does not attempt to assess how well the systems that are described actually work in practice. The ay have been accident
+
+thousands of cancer clinical trials ongoing in the United States all are subject to one or more sets of review and m
+
+monitoring procedures both for scientific merit and for the protection of human subjects. The system may be he original t t
+
+working well everywhere, or it may work better in some places than others.
+
+errors
+
+rom
+
+A recent set of reports from the Inspector General of the Department of Health and Human Services (http://
+
+f
+
+www.dhhs.gov/progorg/oei/whatsnew.html) [this is a temporary home for these documents] has raised the not
+
+possibility that the system of review for human subject protections is under serious strain. In particular the typographic
+
+Inspector General’s report drew attention to gaps in the ability of Institutional Review Boards to monitor risks e
+
+and informed consent procedures once a protocol is approved. This system was the subject of a June 11, 1998
+
+som
+
+hearing in the House of Representatives, and is currently being considered by the President’s Biomedical Ethics Advisory Commission (http://bioethics.gov/bioethics/shays.html). Given the size of the clinical trials enterprise, and
+
+riginal paper book,
+
+and the number of individuals and groups required to make things work as intended, it isn’t surprising that parts ned,
+
+of the system may operate poorly or fail. Third-party payers, such as HCFA, are generally not positioned to be he o
+
+ai
+
+t
+
+watchdogs over the quality of clinical trials, however, and will probably play only a minor role in detecting rom f
+
+weaknesses.
+
+be ret
+
+ed
+
+creat
+
+cannot
+
+The Two Prongs of Clinical Trial Protocol Review and Monitoring iles
+
+In all clinical trial funding review mechanisms, the rights and protections of participants are considered L fM
+
+separately from the evaluation of scientific and technical aspects (although scientific and technical review also X
+
+however,
+
+includes consideration of risks to human subjects). The criteria used by each group for these tasks are detailed in rom
+
+ting,
+
+f
+
+at
+
+later sections of this report. Scientific and technical criteria have been developed independently by each sponsor (although, in the end they are very similar). Standards for human subjects protection also have been developed orm
+
+posed
+
+by each group (as detailed below), but for all research funded by the Department of Health and Human Services ic f
+
+(DHHS), the requirements are dictated by DHHS Regulations for the Protection of Human Subjects in the Code of Federal Regulations (45 CFR 46). The Office for Protection from Research Risks (OPRR) at NIH is the focus ion.
+
+for implementation of the regulations and the provision of guidance on ethical issues in biomedical or behavioral been recom
+
+ting-specif
+
+research.
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+7
+
+lease
+
+are t
+
+P
+
+ed.
+
+The National Cancer Institute
+
+insert
+
+The National Cancer Institute sponsors more cancer clinical trials than any other public or private entity.
+
+age breaks
+
+ally
+
+The Cancer Therapy Evaluation Branch has several mechanisms for funding cancer trials, and the Cancer P
+
+Centers Program provides general funding for clinical trial infrastructure and related activities. The key iles.
+
+programs are described below, including the criteria used to review and approval clinical trial protocols, and to ting f
+
+monitor the progress of ongoing trials.
+
+Underpinning decisions to fund clinical trials through all mechanisms is a two-pronged evaluation system.
+
+ypeset
+
+Protocols for all trials must pass both a scientific review and a review for the protection of potential study participants.
+
+ay have been accident
+
+m
+
+he original t
+
+The Cancer Therapy Evaluation Program
+
+t
+
+errors
+
+rom
+
+The Cancer Therapy Evaluation Program (CTEP) takes in a number of mechanisms for funding clinical f
+
+trials, including the Cooperative Oncology Group (COG) Program, NCI-sponsored IND studies (which require not
+
+that NCI file an IND with FDA), and investigator-initiated grants to carry out clinical trials. Each mechanism has typographic
+
+a different review process, but the scientific standards and criteria for approval are the same.
+
+e
+
+Investigator-Initiated Grant Applications The peer review process used throughout NIH also applies to som
+
+grant applications for cancer clinical trials. This process has been written about extensively, and will not be described in detail here (see, e.g., NIH, 1996; Chubin and Hackett, 1990). A few aspects of the peer review and
+
+riginal paper book,
+
+process are worth noting, however. One key feature is the “dual review” of grant applications, which separates ned,ai
+
+the assessment of scientific merit (carried out by scientific review groups composed of experts in relevant areas) he o t
+
+from policy decisions about which areas of investigation are to be emphasized and the levels of funding that will rom f
+
+be allotted across areas. The latter decisions are made by national advisory boards (in the case of cancer, this be ret
+
+ed
+
+would be the National Cancer Advisory Board), which includes not only scientific experts, but also lay representatives. Final decisions about funding are made by NIH, taking into account both scientific and policy creat
+
+cannot
+
+assessments (NIH 1992).
+
+iles
+
+Members of scientific review groups, who are chosen from the national pool of researchers for their L fM
+
+expertise and experience, are provided with guidance for evaluating grant proposals. Table 2 summarizes the X
+
+however,
+
+areas of review interest and criteria to be applied in the review. When the review is complete, the proposal is rom
+
+ting,
+
+f
+
+at
+
+either deemed to be: 1) “of significant and substantial merit,” (meaning that the question being asked is important and the plan to address it is scientifically sound) in which case it is assigned a “priority score;” 2) it is orm
+
+posed
+
+not recommended for further consideration; or 3) it is deferred until additional information is obtained so that a ic f
+
+final determination can be made (NIH, 1992).
+
+Priority scores (ranging from the highest score, 1.0, to the lowest, 5.0) are based on each SRG member’s ion.
+
+rating of the scientific merit of the proposal relative to the state of the art in the relevant area. The average of all been recom
+
+ting-specif
+
+individual reviewers’ priority scores becomes the overall priority score. The ranking of each proposal relative to has
+
+tribut
+
+all others is a major factor in the final determina
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+rue
+
+8
+
+lease
+
+are t
+
+P
+
+ed.
+
+tion of whether a project is funded. The important point here is that all proposals receiving a priority score (hence, all funded projects) have met the criteria for scientific merit (NIH 1992).
+
+insert
+
+age breaks
+
+ally
+
+TABLE 2. Review of Investigator-Initiated Grants at NIH
+
+P
+
+Issue
+
+Points to Consider/Review Criteria
+
+iles.
+
+Significance
+
+•
+
+Does the study address an important problem?
+
+ting f
+
+•
+
+If the study aims are achieved, how will knowledge be advanced?
+
+ypeset
+
+•
+
+What effect will the study have on concepts or methods in the field?
+
+ay have been accident
+
+Approach
+
+•
+
+Are the conceptual framework, design, methods, and analyses appropriate and m
+
+adequate for the project?
+
+he original t t
+
+•
+
+Are potential problems acknowledged and alternative strategies considered?
+
+errors
+
+rom f
+
+Innovation
+
+•
+
+Does the project employ novel concepts, approaches or methods?
+
+not
+
+•
+
+Are the aims original and innovative?
+
+typographic
+
+•
+
+Does the project challenge existing paradigms or develop new methods or e
+
+technologies?
+
+som
+
+Investigator
+
+•
+
+Does the investigator have the experience and training to carry out the work?
+
+and
+
+Environment
+
+•
+
+Is the scientific environment of the project likely to foster success?
+
+riginal paper book,
+
+ned,
+
+•
+
+Does the proposed study take advantage of unique features of the scientific he o
+
+ai
+
+t
+
+environment and make use of advantageous collaborative arrangements?
+
+rom
+
+•
+
+Is there evidence of institutional support for the project?
+
+f
+
+be ret
+
+ed
+
+Gender and Minority Issues
+
+•
+
+Are the gender and minority characteristics of the proposed study subjects scientifically acceptable and consistent with the aims of the project?
+
+creat
+
+cannot
+
+Human Subjects
+
+•
+
+Are the risks to subjects reasonable, both in relation to the anticipated benefits to iles
+
+subjects and to the importance of knowledge that may reasonably be expected to L fM
+
+result from the research?
+
+X
+
+however,
+
+•
+
+If any exemptions from human subject rules have been requested, are they justified?
+
+rom
+
+ting,
+
+f
+
+at
+
+Animal Welfare
+
+•
+
+Are procedures on experimental animals limited to those that are unavoidable, given orm
+
+the nature of the research?
+
+posed
+
+ic f
+
+Biohazards
+
+•
+
+Are provisions to protect research personnel from potential biohazards adequate?
+
+Budget
+
+•
+
+Are the budget items (direct costs only) appropriate and justified?
+
+ion.
+
+been recom
+
+ting-specif
+
+SOURCE: NIH, 1998.
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+rue
+
+9
+
+lease
+
+are t
+
+P
+
+ed.
+
+Cooperative Group Clinical Trial Protocols About a dozen Cooperative Oncology Groups (including some affiliated groups outside the United States), that are actually networks of academic and research insert
+
+age breaks
+
+organizations around the country, carry out large-scale multicenter cancer clinical trials, as well as smaller phase ally
+
+P
+
+I and II trials. Some groups concentrate on specific types of cancer (e.g., leukemia, breast and bowel cancers) iles.
+
+and others run trials in all types of cancer. Each has its own internal organization, through which ideas are generated and developed, but all are under the umbrella of CTEP. CTEP has its own standing protocol review ting f
+
+committee to review Cooperative Group proposals. After review by the Cooperative Oncology Group itself, all protocols must be filed with CTEP, and all those meeting the following criteria must be subject to a “full” review: ypeset
+
+ay have been accident
+
+• all protocols utilizing resources provided to the Group by NCI and investigational agents or m
+
+investigational devices, regardless of who the sponsor is; he original t
+
+• all protocols requiring accrual of 100 or more patients; t
+
+errors
+
+• all Phase III protocols; and
+
+rom f
+
+• protocols requiring fewer than one hundred patients, which utilize commercial agents only, will receive not
+
+full review. However, approval will be based only upon consideration of safety and regulatory issues.
+
+This includes bone marrow transplantation studies.
+
+typographice
+
+Proposals that do not meet these criteria are mainly those with accrual targets of fewer than 100 patients som
+
+(generally, phase I and II trials). These are subject to a “limited” CTEP review, which eliminates review for and
+
+scientific merit; however, the proposals receive the same scrutiny for safety and administrative aspects as in the riginal paper book,
+
+ned,
+
+full review. (Montello, 1998).
+
+he o
+
+ai
+
+t
+
+All trials using investigational drugs or devices also will have been through FDA review during the IND
+
+process. In addition, as with all other government-funded studies, the safety of human subjects, including an rom f be ret
+
+adequate informed consent procedure, must be in place at all institutions at which studies take place.
+
+ed
+
+Protocols are judged on the following factors:
+
+creat
+
+cannot
+
+iles
+
+• importance and relevance of the issue being investigated; L f
+
+• soundness of the study’s scientific rationale;
+
+M X however,
+
+• adequacy of the design to evaluate the specific research question(s); rom
+
+ting,
+
+• appropriateness of statistical methodology (early stopping, sequential design, etc.); f
+
+at
+
+• timeliness with which the trial will be completed;
+
+orm
+
+• adequacy of the modality sections (e.g., chemotherapy, surgery, radiation therapy, pathology) in posed
+
+ic f
+
+describing the study’s operation;
+
+• representation as Study Chairs or Co-Chairs of investigators within the disciplines involved in the study (e.g., medical, pediatric, surgical, gynecologic);
+
+ion.
+
+been recom
+
+ting-specif
+
+• group’s prior performance in similar studies;
+
+tribut
+
+• apparent feasibility of the study;
+
+has
+
+typeset
+
+• resources required to mount the trial (dollars, patients, agents, etc.); her
+
+for at
+
+• regulatory, human subjects protection, and administrative and contractual concerns, (e.g., industry collaboration, NCI technology transfer objectives); and
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+10
+
+lease
+
+are t
+
+P
+
+ed.
+
+• adequacy of plans to include both genders and minorities and their subgroups as appropriate for the scientific goals of the research. Plans for the recruitment and retention of subjects will also be evaluated insert
+
+age breaks
+
+(NCI, 1996).
+
+ally
+
+P
+
+iles.
+
+Proposals are classified as:
+
+ting f
+
+• approved as written,
+
+• approved with recommendations,
+
+ypeset
+
+• request for clarifications,
+
+• request for revisions, or
+
+ay have been accident
+
+m
+
+• disapproved.
+
+he original t t
+
+errors
+
+If a study is disapproved, it is not eligible for funding by NCI. Studies that receive a request for rom f
+
+clarifications or revisions are subsequently reviewed again, and cannot be funded until approved. All proposals not
+
+that receive approval are not necessarily funded, however.
+
+typographice
+
+The Cancer Centers Program
+
+som
+
+Starting in the early 1960s, cancer institutions around the country were offered the opportunity to apply for and
+
+program funding for clinical research. The Cancer Centers Program, established as a result of the National riginal paper book,
+
+ned,
+
+Cancer Act of 1971, formalized the concept, building on that early experience. The program has grown steadily, he o
+
+ai
+
+t
+
+and there are now 58 officially designated cancer centers in the country, nearly all of which organize and run clinical trials as part of their cancer center grant activities. All Cancer Centers must reapply and be peer-rom f be ret
+
+reviewed at a minimum of every 5 years, but NCI may decide to award a grant for a shorter period. Cancer ed
+
+Center grants go mainly to fund the administrative and statistical resources required generally of an active creat
+
+cannot
+
+clinical trials center, but they may also be used to fund clinical trials directly.
+
+iles
+
+Clinical trials funded through a number of mechanisms take place at all Cancer Centers engaged in clinical L f
+
+research. NIH grants for individual trials or trial programs, trials approved through the Cancer Therapy M X however,
+
+Evaluation Program, and industry-sponsored trials all will have gone through appropriate review before they are rom
+
+ting,
+
+conducted (the review mechanisms for those trials are described in the appropriate portions of this report). In f
+
+at
+
+addition, clinical trial protocols must be approved and study conduct reviewed for their progress by the Cancer orm
+
+Center itself, in accordance with NCI policy, through the Protocol Review and Monitoring System (PRMS). In posed
+
+ic f
+
+addition, all trials, funded by all sources, must first pass review by the Cancer Center Institutional Review Board (IRB). Each Cancer Center has its own specific set of procedures, but all should carry out the same general functions.
+
+ion.
+
+been recom
+
+ting-specif
+
+Cancer Centers are required to submit annual progress reports to NCI about their activities under active tribut
+
+Cancer Center Support Grants. The content of the report is not dictated by NCI, but is intended to cover the has
+
+typeset
+
+major functions and systems of the Cancer Center. The report of the PRMS, for example, usually includes a her
+
+for at
+
+summary of the number of protocols reviewed, approved, terminated, etc. These reports are reviewed by NCI officials, who may request further information, for instance, if an unusual event is reported, such as termination of a clinical trial because of a high incidence of adverse events. This is unusual, however.
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+11
+
+lease
+
+are t
+
+P
+
+ed.
+
+When new Centers apply for Cancer Center Support Grants, or when renewal applications are received, a site visit is made by a committee of external reviewers (i.e., not by NCI staff) who conduct interviews with key insert
+
+age breaks
+
+staff, review log books, read committee meeting minutes, etc. Using this information and the detailed ally
+
+P
+
+application, NCI may identify deficiencies and recommend improvements, should the new grant be approved.
+
+iles.
+
+(Bhorjee, 1998).
+
+Protocol Review and Monitoring System (PRMS) The PRMS must have the following elements (NCI, ting f
+
+1997):
+
+ypeset
+
+1. a qualified review and monitoring committee of sufficient size and breadth of expertise to conduct a ay have been accident
+
+critical, fair scientific review of institutional research protocols involving human subjects; m
+
+2. clear criteria for scientific review which take into account the specific rationale, study design, he original t
+
+duplication of studies already in progress elsewhere, adequacy of biostatistical input, and feasibility t
+
+errors
+
+for completion within a reasonable time frame;
+
+rom f
+
+3. clear criteria for determining whether ongoing research is making sufficient scientific progress, not
+
+including adequate patient accrual rates;
+
+4. a mechanism for overseeing the prioritization of competing protocols and thus for insuring optimal typographice
+
+use of a center’s clinical resources for scientific purposes; and 5. authority and process for initiating, monitoring and terminating all cancer-research protocols in the som
+
+center.
+
+and
+
+riginal paper book,
+
+ned,
+
+Cancer Centers must reapply for Cancer Center Support Grants periodically. The portion of the application he o
+
+ai
+
+t
+
+related to the PRMS must include consideration of:
+
+rom f be ret
+
+• appropriateness of the composition of the review committee; ed
+
+• appropriateness of the criteria for scientific review and decisionmaking; and creat
+
+cannot
+
+• effectiveness of the committee in monitoring the conduct of clinical protocols, overseeing prioritization iles
+
+of competing protocols, and closing those that are not performing adequately.
+
+L fM X however,
+
+NCI does not, therefore, review individual clinical trial protocols or the conduct of individual studies rom
+
+ting,
+
+conducted under the auspices of Cancer Centers, but instead, reviews the mechanisms and criteria in place at f
+
+at
+
+each Cancer Center for those tasks.
+
+orm
+
+posed
+
+ic f
+
+Department of Veterans Affairs
+
+Clinical trials taking place in whole or in part at VA medical centers may arise through several mechanisms.
+
+ion.
+
+been recom
+
+ting-specif
+
+The VA itself sponsors clinical trials through its Cooperative Studies Program (for trials involving more than one tribut
+
+medical center) and through a mechanism for individual investigators who wish to conduct trials at their own has
+
+typeset
+
+medical center. VA investigators may also participate (both in VA medical centers and in affiliated university her
+
+for at
+
+medical centers) in clinical trials sponsored by other government agencies (mainly NIH) and by industry.
+
+Responsibility for ap
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+12
+
+lease
+
+are t
+
+P
+
+ed.
+
+proving and monitoring those trials would rest with their sponsors, under mechanisms covered elsewhere in this report.
+
+insert
+
+age breaks
+
+ally
+
+P
+
+The Cooperative Studies Program
+
+iles.
+
+The Cooperative Studies Program is a well-established entity within the VA medical research program, and ting f
+
+has developed clear standard operating procedures for the planning, review, and conduct of clinical trials. Four coordinating centers assist investigators from all VA medical centers in developing study protocols, and one ypeset
+
+specialized coordinating center assists with pharmaceutical and medical device issues (VA 1997).
+
+ay have been accident
+
+As with NIH-funded trials, the scientific merit and ethical issues related to human subjects are considered m
+
+by separate groups. In addition to review by the Human Rights Committee of the Cooperative Studies Program he original t
+
+Coordinating Center (which also participates in the development of the trial), the Subcommittees on Human t
+
+errors
+
+Studies (the IRB equivalent) of each medical center that will enroll patients must approve all studies.
+
+rom f
+
+Review for Human Rights Issues—The Cooperative Studies Program Coordinating Center Human not
+
+Rights Committee Each Coordinating Center has a standing Human Rights Committee composed of individuals from the community and from VA, including physicians and at least one member who is not a physician or typographice
+
+scientist, usually a member of the clergy, an attorney, a veteran, and a member of a recognized minority group.
+
+All proposals are reviewed by this group in the planning phases, and must be approved by it before they can be som
+
+submitted to the Cooperative Studies Evaluation Committee for review of scientific merit.
+
+and
+
+The Human Rights Committee is responsible for ensuring that protection of patients’ rights and welfare will riginal paper book,
+
+ned,
+
+be adequately protected. The protocol, informed consent procedures and documents are reviewed for this he o
+
+ai
+
+t
+
+purpose. If the study involves use of a medical device, the Committee follows FDA guidelines to determine the degree of risk inherent in the device.
+
+rom f be ret
+
+Based on human rights considerations alone, the Human Rights Committee may accept unconditionally, ed
+
+accept with conditions, or reject the proposal.
+
+creat
+
+cannot
+
+Review for Scientific Merit—The Cooperative Studies Evaluation Committee Once the Human Rights iles
+
+Committee accepts proposals, they may be submitted to the Cooperative Studies Evaluation Committee for L f
+
+further consideration. Proposals are reviewed for scientific merit first by ad hoc reviewers, selected for expertise M X however,
+
+in the area of the proposal, who provide written comments. A formal review by the standing Cooperative Studies rom
+
+ting,
+
+Evaluation Committee (CSEC), augmented by an ad hoc member with expertise in the specific area, is then held.
+
+f
+
+at
+
+The CSEC has members representing the range of medical practice, epidemiology, biostatistics, and health orm
+
+services research, as well as representation from FDA. The aspects singled out for review are: posed
+
+ic f
+
+• importance of the project;
+
+• feasibility;
+
+ion.
+
+been recom
+
+ting-specif
+
+• clarity and achievability of objectives;
+
+tribut
+
+• adequacy of the investigation plan;
+
+has
+
+typeset
+
+• correctness of technical details;
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+13
+
+lease
+
+are t
+
+P
+
+ed.
+
+• adequacy of safeguards for the welfare of patients; and
+
+• character and definition of response variables, measurement, data collection, frequency of observations, insert
+
+age breaks
+
+sample size, plans for data processing and analysis (this falls to the biostatistician).
+
+ally
+
+P
+
+iles.
+
+After review, each proposal is placed into one of four categories: ting f
+
+1. unconditional approval;
+
+2. conditional approval—after agreed upon changes are made, the project will be approved with an ypeset
+
+abbreviated re-review;
+
+ay have been accident
+
+3. rejection; or
+
+m
+
+4. recommend for resubmission with major revisions.
+
+he original t t
+
+errors
+
+The approved studies are assigned a numeric score for scientific merit and forwarded to the VA Chief rom f
+
+Research and Development Officer, who makes the final determination of which studies will be funded. As is the not
+
+case at NIH, approval does not necessarily lead to funding, but all approved studies do meet the criteria for scientific merit and protection of human subjects.
+
+typographice
+
+Review by Participating Medical Centers Once a proposal has received funding approval, the protocol and other documents are sent to each center scheduled to participate in the study, where it is reviewed by the som
+
+Research and Development Committee and the Subcommittee on Human Studies. These groups may suggest and
+
+changes, which will be considered by the study staff. All centers must agree to carry out the study as finally riginal paper book,
+
+ned,
+
+described in the protocol before it can begin.
+
+he o
+
+ai
+
+t
+
+rom f
+
+VA-Funded Research at Single VA Medical Centers
+
+be ret
+
+ed
+
+Investigators at any VA Medical Center may apply for VA funds to carry out research studies within his or creat
+
+cannot
+
+her institution. The reviewing body for cancer treatment trials would be the VA Medical Research Service. The iles
+
+system for review is modeled on the NIH peer review system, using what are called Merit Review Boards. These L f
+
+studies also would be under the purview of the Human Studies Subcommittees for approval of the human M X however,
+
+subjects aspects.
+
+rom
+
+ting,
+
+f
+
+at
+
+INSTITUTIONAL REVIEW BOARDS
+
+orm
+
+posed
+
+ic f
+
+Every institution that conducts clinical trials must have an institutional review board (IRB), which is responsible generally for the protection of individuals treated there. Before a trial can begin (and usually before funding is sought for it, if it is funded outside the institution), the IRB must review the protocol to assure that ion.
+
+been recom
+
+ting-specif
+
+there are adequate protections for human subjects and that they will not be placed at undue risk. The IRB also tribut
+
+reviews trials for scientific merit, but are not, in general, the prime arbiters in that area. At the same time, the has
+
+typeset
+
+IRB is responsible for ensuring compliance with all relevant FDA and DHHS regulations regarding human her
+
+for at
+
+subjects.
+
+Each IRB has its own set of operating procedures, but all cover more or less the same ground. The following topics would be included in a typical clinical trial protocol review.
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+rue
+
+14
+
+lease
+
+are t
+
+P
+
+ed.
+
+Evaluation of the Nature and Purpose of the Research
+
+insert
+
+age breaks
+
+• Objectives of research?
+
+ally
+
+P
+
+• Therapeutic or nontherapeutic?
+
+iles.
+
+• Is the research controversial and if so, what might be recommended to mitigate public concern?
+
+• Are there special legal issues that might affect the investigator or the institution, and if so, what might ting f
+
+be recommended to safeguard against problems?
+
+ypeset
+
+Evaluation of the Scientific Background of the Study
+
+ay have been accident
+
+m
+
+• Is there sufficient information from earlier preclinical or clinical work to justify further exposure of he original t
+
+human beings to the intervention?
+
+t
+
+errors
+
+rom f
+
+Evaluation of the Subject Population
+
+not
+
+• Exclusion/inclusion criteria: age, gender, health status.
+
+typographice
+
+• Number of subjects needed.
+
+• Is the proposed population appropriate for the study?
+
+som
+
+• Is selection of subjects as equitable as possible, given any restrictions imposed by justifiable inclusion/
+
+and
+
+exclusion criteria?
+
+riginal paper book,
+
+ned,
+
+• Is the inclusion of particularly vulnerable subjects (children, pregnant women, fetuses, elderly he o
+
+ai
+
+t
+
+individuals, prisoners, mentally incompetent individuals, terminally ill individuals) justified and in compliance with federal regulations?
+
+rom f be ret
+
+• Will particular physiologic, health, psychological, or sociological characteristics of the subject ed
+
+population pose special problems, and if so, what steps have been taken to minimize potential problems?
+
+creat
+
+cannot
+
+iles
+
+Evaluation of Subject Recruitment
+
+L fM X however,
+
+• Is the method of identifying potential subjects ethically and legally acceptable?
+
+rom
+
+ting,
+
+• Will subjects be recruited in an appropriate and noncoercive manner?
+
+f
+
+at
+
+• Are any advertisements used to recruit subjects acceptable?
+
+orm
+
+posed
+
+ic f
+
+Evaluation of Research Design and Procedures
+
+• Will the study, as designed, accomplish the stated goals with valid scientific data, if carried out ion.
+
+been recom
+
+ting-specif
+
+appropriately?
+
+has
+
+tribut
+
+typeset
+
+Evaluation of Risks to Subjects
+
+her
+
+for at
+
+• What are the potential physical, psychological, sociological, economic, and legal risks to subjects?
+
+• What is the overall risk classification (i.e., less than minimal, minimal, greater than minimal, life original work
+
+and ot
+
+he
+
+ive version
+
+threatening)?
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+rue
+
+15
+
+lease
+
+are t
+
+P
+
+ed.
+
+• What is the estimated probability, severity, average duration and reversibility of any potential harm?
+
+• Have risks been minimized to the extent possible?
+
+insert
+
+age breaks
+
+• What procedures are in place to treat subjects who may be injured?
+
+ally
+
+P
+
+iles.
+
+Evaluation of Benefits to Subjects and Society
+
+ting f
+
+• What are the potential benefits for subjects, and have they been maximized, to the extent possible?
+
+• What are the potential benefits for society, and have they been maximized, to the extent possible?
+
+ypeset
+
+Evaluation of Risk/Benefit Relationship
+
+ay have been accident
+
+m
+
+he original t
+
+• Is the potential risk outweighed or balanced by the potential benefit to the subject? Is the balance at least t
+
+errors
+
+as favorable as that for standard treatments that the subject could receive in a nonresearch setting?
+
+rom f
+
+not
+
+Evaluation of Investigator Credentials
+
+typographice
+
+• Do the investigators have the appropriate credentials (including certification/licensure) to conduct the research?
+
+som
+
+• Are the necessary facilities and equipment available to the investigators?
+
+and
+
+riginal paper book,
+
+ned,
+
+Additional Monitoring
+
+he o
+
+ai
+
+t
+
+• Should the research be reviewed by the IRB more often than annually?
+
+rom f be ret
+
+ed
+
+Evaluation of Informed Consent Procedures
+
+creat
+
+cannot
+
+iles
+
+• Who will solicit informed consent from subjects?
+
+L f
+
+• If the subjects will not be competent to give informed consent themselves, who are the proposed proxies?
+
+M X however,
+
+• Will the timing of and setting for soliciting informed consent be conducive to rational decisionmaking rom
+
+ting,
+
+by the subject without coercion?
+
+f
+
+at
+
+• Should a subject advocate or other individual be present during the consent process?
+
+orm
+
+• Should subjects be reminded of their participation and informed consent reaffirmed periodically?
+
+posed
+
+ic f
+
+• If a waiver of some or all the elements of informed consent is requested, is the request justified?
+
+• Will the nature of the research or other factors potentially inhibit a subject’s desire or ability to withdraw from participation, once begun? If so, what steps have been taken to minimize this problem?
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+16
+
+lease
+
+are t
+
+P
+
+ed.
+
+THE FOOD AND DRUG ADMINISTRATION
+
+insert
+
+The Food and Drug Administration (FDA) does not conduct clinical trials, but it has a major review age breaks
+
+ally
+
+function. Cancer clinical trials using new (i.e., not yet approved by FDA) therapeutic agents always require a P
+
+research protocol be filed with FDA in an Investigational New Drug (IND) Application. In some (but not all) iles.
+
+cases, INDs are also required when already-approved drugs are being used experimentally in patient groups or in ting f
+
+ways that are substantially different from those for which the drug was approved. The pharmaceutical industry sponsors many such trials, but particularly in the case of cancer trials, the government (NCI) is an important ypeset
+
+source of sponsorship. The authority for FDA’s activities derives from the Federal Food, Drug and Cosmetic Act, and is codified in Title 21 of the Code of Federal Regulations.
+
+ay have been accident
+
+An IND is not an application for marketing approval, but a request for an exemption from the Federal m
+
+statute that prohibits the shipment of unapproved drugs in interstate commerce. (This section describes what is he original t t
+
+known as a “commercial IND,” the ultimate goal of which is for the sponsor to obtain approval to market the errors
+
+rom
+
+product being tested. Other types of INDs are mentioned briefly in a later section.) In practice, however, the f
+
+main purpose of the IND is for the sponsor to present data and documentation to demonstrate that it is reasonable not
+
+to proceed with trials of the drug in human beings. The point of IND studies is to gather the information needed typographic
+
+to gain approval of a new drug (or to have a new indication added to the labeling of an already-approved drug) e
+
+through a New Drug Approval (NDA) application.
+
+som
+
+All research undertaken under an IND also must adhere to the applicable federal regulations regarding the protection of human subjects.
+
+and
+
+riginal paper book,
+
+ned,
+
+he o
+
+ai
+
+t
+
+The Commercial IND Application
+
+rom f be ret
+
+An IND includes information in three general areas:
+
+ed
+
+1. animal pharmacology and toxicology studies,
+
+creat
+
+cannot
+
+2. manufacturing information, and
+
+iles
+
+3. clinical protocols and investigator information.
+
+L fM X however,
+
+The clinical trials planned must be specified in complete detail in the IND, although the data requirements rom
+
+ting,
+
+f
+
+at
+
+for phase I studies are more flexible and need not be as detailed as those for phase 2 and 3 INDs (FDA 1995).
+
+Thirty days after submitting an IND application, the sponsor may begin the IND clinical trials, if they hear orm
+
+posed
+
+no objection from FDA. In that time, FDA will have conducted a preliminary review to determine whether the ic f
+
+research should be allowed to proceed as planned, or whether there is a need for further information or other changes in the application. If FDA determines that patients would be at an unacceptable risk, or if they do not ion.
+
+have the data to make that determination, they can place a “clinical hold” on the IND until they can resolve the been recom
+
+ting-specif
+
+differences with the sponsor (for which there is a set procedures).
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+17
+
+lease
+
+are t
+
+P
+
+ed.
+
+TABLE 3. Major Areas of IND Review by FDA
+
+insert
+
+Review Category
+
+Points Covered
+
+age breaks
+
+ally
+
+P
+
+Medical review
+
+•
+
+Assure protection of participants from unnecessary risks iles.
+
+•
+
+Determine whether study design will provide data relevant to safety and ting f
+
+effectiveness of drug, of sufficient scientific quality to support later marketing approval
+
+ypeset
+
+Chemistry review
+
+•
+
+Evaluate manufacturing and processing procedures to ensure reproducibility and stability of drug
+
+ay have been accident
+
+Pharmacology/Toxicology review
+
+•
+
+Evaluate results of animal tests to determine potential for effects in humans m
+
+he original t
+
+Statistical review
+
+•
+
+Evaluate power of proposed studies to answer the clinical question t
+
+errors
+
+rom
+
+•
+
+Review the statistical methods invoked in study design and analysis f
+
+Safety review
+
+•
+
+Assure that participants will not be placed at undue risk not
+
+typographic
+
+SOURCE: FDA, 1998.
+
+e
+
+Commercial IND Application Review
+
+som
+
+The areas included in FDA’s review of an IND application are summarized in Table 3.
+
+and
+
+Specialists in the relevant area carry out each category of review. One individual (usually the medical riginal paper book,
+
+ned,
+
+officer) is responsible for synthesizing all parts of the review so that the agency can make an overall he o
+
+ai
+
+t
+
+determination about letting the IND proceed.
+
+rom
+
+Companies must report to FDA periodically on the progress of IND clinical trials, mainly to affirm that f
+
+be ret
+
+patients are being accrued at an acceptable rate and that the protocols are being followed. In addition, all adverse ed
+
+events must be reported, and serious events must be reported as they occur. FDA can intervene to place a trial on creat
+
+cannot
+
+hold, which may eventually lead to restarting or to terminating it.
+
+iles
+
+L fM
+
+Noncommercial INDs
+
+X
+
+however,
+
+rom
+
+ting,
+
+There are many individual instances in which a physician wishes to give an unapproved drug to a patient, f
+
+at
+
+even though the patient is not participating in a formal clinical trial under a commercial IND (as described orm
+
+above). Of these “expanded access” measures, the most familiar is the “Treatment IND,” through which patients posed
+
+ic f
+
+may receive treatments that are being tested in clinical trials. This may apply to patients for whom no other satisfactory option exists. “Emergency use INDs” and “investigator INDs” also exist for the purpose of allowing physicians to administer as-yet-unapproved drugs. Patients receiving treatments through any of these ion.
+
+been recom
+
+ting-specif
+
+mechanisms would not be considered to be enrolled in clinical trials. Whether insurers would knowingly cover tribut
+
+the costs of their care is a question separate from that of covering costs for patients who are enrolled in clinical has
+
+typeset
+
+trials.
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+18
+
+lease
+
+are t
+
+P
+
+ed.
+
+Protection of Human Subjects
+
+insert
+
+FDA itself evaluates potential risks to participants, and has the authority to place a clinical hold on a study age breaks
+
+ally
+
+if the risk is undue. In addition, federal regulations contain rules for the informed consent of human subjects P
+
+participating in studies of experimental drugs (and other devices and substances for which FDA has regulatory iles.
+
+authority) (21 CFR Ch. 1, Part 50). In general, the regulations require all participants to give informed consent to ting f
+
+participate in a research project, with specific exceptions, mainly in life-threatening situations.
+
+The regulation requires that the information provided to the potential participant be clear and easy to ypeset
+
+understand, that the possibility for coercion or undue influence be minimized, and that the participant not be asked to waive (or appear to waive) any legal rights. The IRB at the institution in which the research is taking ay have been accident
+
+place is responsible for assuring that informed consent, and other protections, are in place and are properly m
+
+applied.
+
+he original t t
+
+errors
+
+rom f
+
+COMMON ELEMENTS OF CLINICAL TRIAL REVIEW CRITERIA
+
+not
+
+Review and monitoring procedures among clinical trial sponsors vary, but the content of the reviews is typographic
+
+remarkably similar. There are some obvious common elements related to the review and conduct of trials that e
+
+could be a starting point for defining what constitutes a “good” trial: som
+
+• the material reviewed is always a written protocol and other documentation that covers both scientific and
+
+riginal paper book,
+
+matters and the safety and potential risks to participants, ned,ai
+
+• reviews of scientific merit and of human subject issues are carried out independently (although the he o t
+
+safety of participants also features in scientific merit reviews, so there is some built-in duplication), rom f be ret
+
+• procedures provide for initial protocol reviews for approval as well as reviews of progress (at least ed
+
+annually) of trials in all the systems,
+
+• ongoing responsibility for human subjects issues in trials that are under way rests mainly with the IRBs creat
+
+cannot
+
+of the institutions at which patients are actually being enrolled and treated in clinical trials, and iles
+
+• reviews are carried out by experts in methodological areas and the medical subject matter of the trial L fM
+
+(i.e., reviews may not be carried out satisfactorily using a “checklist” approach applied by non-experts).
+
+X
+
+however,
+
+rom
+
+ting,
+
+f
+
+at
+
+Reviews for Scientific Merit
+
+orm
+
+posed
+
+There are common elements in the review of protocols for scientific merit. These include: ic f
+
+• importance or significance of the research question, ion.
+
+• previous research to support moving ahead to clinical trials in human beings (or to move to a later phase been recom
+
+ting-specif
+
+of clinical trial),
+
+has
+
+tribut
+
+• adequacy of study design (if executed appropriately) to answer research question, typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+rue
+
+19
+
+lease
+
+are t
+
+P
+
+ed.
+
+• adequacy of the size of the trial (number of participants) to produce an answer to the question,
+
+• feasibility of carrying out the study,
+
+insert
+
+age breaks
+
+• qualifications of the investigators, and
+
+ally
+
+P
+
+• assurance that participants will be protected from undue risks.
+
+iles.
+
+Progress reviews also are a feature of all the systems. At least annually, the progress of all trials is reported ting f
+
+to sponsors (and to FDA, in the case of IND trials). The main points considered include: ypeset
+
+• adherence to protocol,
+
+ay have been accident
+
+• accrual rate,
+
+m
+
+• dropout rate, and
+
+he original t
+
+• adverse events.
+
+t
+
+errors
+
+rom f
+
+Serious adverse events generally must be reported immediately. Sponsors may decide to terminate a trial if not
+
+it appears unlikely to succeed, either because of poor accrual, high dropout rates, etc. Sponsors and FDA (in the case of IND studies) may terminate or otherwise cause modifications in trials because of adverse events.
+
+typographice
+
+som
+
+Reviews and Procedures to Ensure the Safety and Rights of Participants and
+
+All scientific protocol reviews include consideration of the potential risks to participants, but these are also riginal paper book,
+
+ned,
+
+considered by separate groups concerned only with the safety and rights of study participants. The common areas he o
+
+ai
+
+t
+
+covered by human subjects reviews are:
+
+rom f be ret
+
+• evaluation of the scientific background of the study, ed
+
+• evaluation of the subject population,
+
+creat
+
+cannot
+
+• evaluation of subject recruitment,
+
+iles
+
+• evaluation of risks to subjects,
+
+L f
+
+• evaluation of benefits to subjects and society,
+
+M X however,
+
+• evaluation of risk/benefit relationship,
+
+rom
+
+ting,
+
+• evaluation of investigator credentials,
+
+f
+
+at
+
+• evaluation of monitoring requirements for the trial, and orm
+
+• evaluation of informed consent procedures.
+
+posed
+
+ic f
+
+REFERENCES
+
+ting-specif
+
+ion.
+
+Bhorjee J. National Cancer Institute, personal communication, December 1998.
+
+been recom
+
+Brown D. Department of Defense, personal communication, April 1998.
+
+has
+
+tribut
+
+Chubin D, Hackett EJ. Peerless Science: Peer Review and U.S. Science Policy. Albany NY: State University of New York Press, 1990.
+
+typeset
+
+Collins J. Cooperative Studies Program, VA Medical Center, Perry Point, MD, personal communication, May 1998.
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+rue
+
+20
+
+lease
+
+are t
+
+P
+
+ed.
+
+Cooperative Studies Program. Guidelines for the Planning and Conduct of Cooperative Studies. Office of Research and Development, Department of Veterans Affairs. September 1997.
+
+insert
+
+Food and Drug Administration. Investigational New Drug Application. FDA Website. 1998.
+
+age breaks
+
+Food and Drug Administration. Guidance for Industry: Content and Format of Investigational New Drug Applications (INDs) for Phase 1
+
+ally
+
+P
+
+Studies of Drugs, Including Well-Characterized, Therapeutic, Biotechnology-Derived Products. Center for Drug Evaluation and Research, Center for Biologics Evaluation and Research. November 1995
+
+iles.
+
+Montello M. National Cancer Institute, personal communication, December 1998.
+
+National Cancer Institute. The Cancer Centers Program of the National Cancer Institute: Interim Policies and Guidelines Relating to the ting f
+
+Cancer-Center Support Grant. Typescript, April 1997.
+
+National Cancer Institute. Clinical Trials Cooperative Group Program Guidelines. NCI Website. August 1996.
+
+ypeset
+
+National Institutes of Health. Guide for Assigned Reviewers’ Preliminary Comments on Research Grant Applications (R01). Typescript, 1998.
+
+National Institutes of Health. A Half Century of Peer Review, 1946–1996. Division of Research Grants, NIH, March 1996.
+
+National Institutes of Health. Orientation Handbook for Members of Scientific Review Groups. March 1992 Interim Revision, typescript.
+
+ay have been accident
+
+m
+
+he original t t
+
+errors
+
+rom f
+
+not
+
+typographice
+
+som
+
+and
+
+riginal paper book,
+
+ned,
+
+he o
+
+ai
+
+t
+
+rom f be ret
+
+ed
+
+creat
+
+cannot
+
+iles
+
+L fM X however,
+
+rom
+
+ting,
+
+f
+
+at
+
+orm
+
+posed
+
+ic f
+
+ion.
+
+been recom
+
+ting-specif
+
+has
+
+tribut
+
+typeset
+
+her
+
+for at
+
+original work
+
+and ot
+
+he
+
+ive version
+
+t
+
+yles,
+
+at
+
+ion of
+
+horit
+
+at
+
+heading st
+
+he aut
+
+as t
+
+represent
+
+ion
+
+al
+
+digit
+
+word breaks,
+
+publicat
+
+hs,
+
+this
+
+his new T
+
+of
+
+file:F line lengt
+
+D
+
+version
+
+his P t
+
+the print
+
+bout
+
+the original;
+
+A
+
+to
+
+use
+
+
+
+
+
+Document Outline
+
+
+A Report on the Sponsors of Cancer Treatment Clinical Trials and Their Approval and Monitoring Machanisms
+
+Copyright
+
+Preface
+
+Report Reviewers
+
+Contents SUMMARY Cancer Treatment Trial Sponsors
+
+Quality Standards for Cancer Treatment Trials
+
+Common Elements of Clinical Trial Review Criteria
+
+Reviews for Scientific Merit
+
+Reviews and Procedures to Ensure the Safety and Rights of Participants
+
+
+
+
+
+INTRODUCTION
+
+ELIGIBILITY OF MEDICARE PATIENTS FOR CANCER CLINICAL TRIALS
+
+CRITERIA AND PROCEDURES FOR APPROVING AND MONITORING CLINICAL TRIALS The Two Prongs of Clinical Trial Protocol Review and Monitoring
+
+The National Cancer Institute The Cancer Therapy Evaluation Program
+
+The Cancer Centers Program
+
+
+
+
+
+Department of Veterans Affairs The Cooperative Studies Program
+
+VA-Funded Research at Single VA Medical Centers
+
+
+
+
+
+INSTITUTIONAL REVIEW BOARDS
+
+THE FOOD AND DRUG ADMINISTRATION The Commercial IND Application
+
+Noncommercial INDs
+
+Protection of Human Subjects
+
+
+
+
+
+COMMON ELEMENTS OF CLINICAL TRIAL REVIEW CRITERIA Reviews for Scientific Merit
+
+Reviews and Procedures to Ensure the Safety and Rights of Participants
+
+
+
+
+
+REFERENCES
+
+
+
+
+
